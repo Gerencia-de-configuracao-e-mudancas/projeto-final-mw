@@ -1,0 +1,45 @@
+#card-list {
+    padding: 40px 0;
+}
+
+.card-filme {
+    width: 100%;
+}
+
+.card-filme img {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
+.card-description {
+    background-color: #fff;
+    padding: 10px 20px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 0 0 8px 8px;
+    min-height: 150px;
+}
+
+.card-description h3 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    align-items: center;
+}
+
+.btn,
+.btn:hover {
+    width: 180px;
+    height: 40px;
+    background-color: #191970;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    border: 0;
+}
