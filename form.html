@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MW Filmes</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./src/css/global.css">
+    <link rel="stylesheet" href="src/css/card.css">
+    <link rel="stylesheet" href="src/css/card-form.css">
+</head>
+
+<body>
+    <header>
+        <nav class="container">
+            <a href="index.html">Home</a>
+            <a href="#">Filmes</a>
+            <a href="#">Series</a>
+            <a href="#">Animes</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="form-section">
+
+            <div class="container card-form-container">
+                <div>
+                    <div class="card">
+                        <img src="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/foGkPxpw9h8zln81j63mix5B7m8.jpg"
+                            alt="poster the witcher">
+                        <div class="form-description">
+                            <h3>The witcher</h3>
+
+                            <form class="form">
+                                <div class="form-group section-form-group">
+                                    <label for="email">Informe seu email</label>
+                                    <input class="form-control" type="email" id="email">
+                                </div>
+                                <div class="form-group section-form-group">
+                                    <label for="score">Informe sua avaliação</label>
+                                    <select class="form-control" name="score" id="score">
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                    </select>
+                                </div>
+                                <div class="form-btn-container">
+                                    <button class="btn" type="submit">Salvar</button>
+                                     <a class="btn" href="index.html">Cancelar</a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+    </main>
+</body>
+
+</html>
