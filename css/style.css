@@ -1,1 +1,67 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@100;300;400;700&family=Roboto:wght@300;400;700&display=swap');
+
+:root {
+    --color-primary: #4d41c0;
+    --text-gray: #4A4A4A; 
+    --text-light-gray: #aaa;
+    --bg-gray: #e8e8e8;
+    --white: #fff;
+    --star-yellow: #FFBB3A;
+  }
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+  }
+
+  header {
+    background-color: var(--color-primary);
+    color: var(--white);
+    height: 60px;
+    display: flex;
+    align-items: center;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  nav h1 {
+    font-size: 24px;
+    font-weight: 700;
+  }
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+  nav a {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  
+  html, body {
+      background-color: var(--bg-gray);
+  }
+
+  a, a:hover {
+    text-decoration: none;
+    color: unset;
+  }
+
