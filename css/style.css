@@ -51,7 +51,7 @@ nav li {
 }
 
   nav a {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 400;
   }
 
@@ -135,19 +135,21 @@ nav li {
   .card-description h4 {
     font-size: 16px;
     font-weight: 700;
-    color: var(--star-yellow);
+    color: var(--text-gray);
   }
 
-  .card-description-bottom img {
-    width: 22px;
+  .avaliacao{
+    display: flex;
   }
 
-  .card-description-bottom p {
-    font-size: 12px;
-    font-weight: 400;
-    color: var(--text-light-gray);
-    margin-bottom: 10px;
+  .avaliacao h4 {
+    color: #4A4A4A;
   }
+
+  .avaliacao img {
+    width: 20px;
+  }
+
 
   .btn, .btn:hover {
     width: 180px;
