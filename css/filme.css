@@ -1,1 +1,37 @@
 
+.filme-card {
+    padding: 20px 0;
+    display: flex;
+}
+
+.filme-card img {
+    border-radius: 8px 0 0 8px;
+}
+
+.info {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 0 8px 8px 0;
+    padding: 0 10px;
+}
+
+.info h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.info p {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.info span {
+    font-weight: 400;
+}
+
+@media (max-width: 768px) {
+    .filme-card {
+        flex-direction: column;
+    }
+}
