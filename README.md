@@ -8,7 +8,7 @@ Esse site foi criado com o objetivo de expor os filmes que obtiveram grande suce
 Nele você encontrará os 10 melhores filmes de 2023 listados na página principal e para uma experiência mais aprofundada navegue até a aba de "Filmes" para observar detalhes e links para os filmes.
 <br>
 <br>
-### Fique a vontade para explorare desfrutrar das maravilhas do universo cinematográfico conosco! &#x1F37F;
+### Fique a vontade para explorar e desfrutrar das maravilhas do universo cinematográfico conosco! &#x1F37F;
 
 
 
