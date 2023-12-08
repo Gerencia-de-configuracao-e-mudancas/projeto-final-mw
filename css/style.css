@@ -65,6 +65,12 @@ nav li {
     color: unset;
   }
 
+  .pagina-link {
+    background-color: #6859ef;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+  }
 
   .contact-container {
     display: flex;
@@ -97,7 +103,7 @@ nav li {
     align-items: center;
     justify-content: space-between;
     border-radius: 0 0 8px 8px;
-    height: 200px;
+    height: 180px;
   }
 
   .card-description h3 {
