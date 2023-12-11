@@ -164,3 +164,13 @@ nav li {
     border-radius: 4px;
     border: 0;
   }
+
+  @media (max-width: 576px) {
+    nav a {
+      font-size: .7rem;
+    }
+
+    nav h1 {
+      font-size: 20px;
+    }
+  }

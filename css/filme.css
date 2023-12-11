@@ -33,5 +33,12 @@
 @media (max-width: 768px) {
     .filme-card {
         flex-direction: column;
+        padding: 20px 15px;
+    }
+    .filme-card img {
+        border-radius: 8px 8px 0 0;
+    }
+    .info {
+        border-radius: 0 0 8px 8px;
     }
 }
