@@ -7,7 +7,8 @@ Disponibilizamos informações sobre os trailers e onde poderá encontrar cada u
 Nosso site foi criado com o objetivo de expor os filmes que obtiveram grande sucesso em 2023 e navegar pelos destaques cinematográficos deste ano.<br>
 Nele você encontrará os melhores filmes de 2023 listados na página principal "Início" e para uma experiência mais aprofundada navegue até a aba de "Visão geral" para observar detalhes sobre os filmes. 
 <br>
-<br>
+<br> 
+
 ### Fique a vontade para explorar e desfrutrar das maravilhas do universo cinematográfico conosco! 🍿 🎥
 
 
